@@ -3,7 +3,7 @@
 Diamond App: Elevate Your Luxury Experience ✨
 
 Step into a realm where sophistication converges with cutting-edge technology. 
-Diamond App redefines high-end shopping by seamlessly blending timeless elegance with blockchain innovation,
+Diamond App redefines high-end shopping by seamlessly blending timeless elegance,
 ensuring every purchase is authenticated and eternally secure.
 
 ## 💎⚙️Getting Started
@@ -12,7 +12,7 @@ Clean Architecture emphasizes separation of concerns, with layers like domain, d
 Bloc is a state management library that helps manage the flow of data and state changes in Flutter apps.
 
 The user probably wants to integrate these two concepts to build a scalable and maintainable app. 
-They might be a developer or tech lead looking to structure their project properly. The Diamond App is about luxury shopping with blockchain, 
+They might be a developer or tech lead looking to structure their project properly. The Diamond App is about luxury shopping, 
 so the architecture needs to handle things like authentication, data fetching, and state management efficiently.
 
 First, I should outline the layers of Clean Architecture.
