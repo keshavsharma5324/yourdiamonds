@@ -18,7 +18,7 @@ so the architecture needs to handle things like authentication, data fetching, a
 First, I should outline the layers of Clean Architecture.
 Then explain how Bloc fits into the presentation layer. 
 Maybe use the Diamond App's features as examples. 
-For instance, user authentication could use Bloc to manage the login state, interacting with use cases in the domain layer, 
+For instance, Getting Diamond's from DataSet could use Bloc to manage the DataSet state, interacting with use cases in the domain layer, 
 which in turn talk to repositories in the data layer.
 
 I need to mention the benefits: testability, separation of concerns, scalability.
@@ -26,6 +26,7 @@ Also, how Bloc's event-driven approach helps in managing complex UI states.
 Perhaps provide a code example for a feature like fetching exclusive collections, showing the Bloc, use case, and repository interaction.
 
 Packages Used -
+
 Why Hive for Diamond App and Persistent Storage?
 ✅ Performance: 2x faster than SQLite, ideal for quick access to user preferences, cached collections, or session data.
 ✅ Zero Dependencies: Pure Dart implementation (no native platform code).
