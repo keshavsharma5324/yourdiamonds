@@ -6,7 +6,7 @@ Step into a realm where sophistication converges with cutting-edge technology.
 Diamond App redefines high-end shopping by seamlessly blending timeless elegance,
 ensuring every purchase is authenticated and eternally secure.
 
-## 💎⚙️Getting Started
+## 💎⚙️Getting Started(Project structure & State management logic)
 
 Clean Architecture emphasizes separation of concerns, with layers like domain, data, and presentation.
 Bloc is a state management library that helps manage the flow of data and state changes in Flutter apps.
