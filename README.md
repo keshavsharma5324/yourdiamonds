@@ -45,9 +45,7 @@ Why dartz for Diamond App?
 ✅ Composability: Chain operations like API → blockchain validation → local cache.
 ✅ Null Safety: Option type eliminates null-reference risks.
 
-![Screenshot 2025-03-21 at 12.46.45 AM.png](../Screenshot%202025-03-21%20at%2012.46.45%E2%80%AFAM.png)
-![Screenshot 2025-03-21 at 12.46.32 AM.png](../Screenshot%202025-03-21%20at%2012.46.32%E2%80%AFAM.png)
-[Screen Recording 2025-03-21 at 12.47.06 AM.mov](../Screen%20Recording%202025-03-21%20at%2012.47.06%E2%80%AFAM.mov)
+![](/Users/keshavkumar/Downloads/ezgif.com-video-to-gif-converter.gif)
 
 For help getting started with Clean Architecture, view the
 (https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html),
