@@ -47,6 +47,7 @@ Why dartz for Diamond App?
 
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/700ba105-4392-46f3-8200-944de27fec12)
 
+USE COMMAND TO RUN -> flutter run --no-enable-impeller
 
 For help getting started with Clean Architecture, view the
 (https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html),
